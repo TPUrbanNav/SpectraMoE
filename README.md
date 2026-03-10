@@ -1,1 +1,1 @@
-# FLSSTMM
+# SpectraMoE
